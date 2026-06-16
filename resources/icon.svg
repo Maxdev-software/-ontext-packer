@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Box -->
+  <path d="M21 8l-9-5L3 8l9 5 9-5z" fill="none"/>
+  <path d="M3 8v8l9 5 9-5V8" fill="none"/>
+  <line x1="12" y1="13" x2="12" y2="22"/>
+  <!-- Sparkle -->
+  <path d="M16 3l.5 1.5L18 5l-1.5.5L16 7l-.5-1.5L14 5l1.5-.5z" fill="currentColor" stroke="none"/>
+</svg>
